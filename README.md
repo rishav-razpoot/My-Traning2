@@ -1,4 +1,3 @@
 # new project
 
-this project was created from local system
-created by Rishav Kumar
+this project was created from local system an the owner is Rishav Kumar.
